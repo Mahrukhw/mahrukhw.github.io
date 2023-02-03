@@ -39,7 +39,7 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+  username: Mahrukh Waqar # jekyll-seo-tag > Owners twitter username
 author: Mahrukh Waqar # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Mahrukh Waqar # jekyll-seo-tag > real name
@@ -122,11 +122,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Elements
-  url: /elements/
+  url: /https://mahrukhw.github.io/elements/
 - title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
+  url: /https://mahrukhw.github.io/blog/
+ #- title: Categories
+ # url: /categories/
 - title: Search
   url: /search/
 
@@ -135,7 +135,7 @@ navigation_footer:
   url:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
+  Twitter: https://twitter.com/waqar_mahrukh
   LinkedIn: https://www.linkedin.com/in/mahrukhw
   #GitHub: https://github.com/daviddarnes
   #link: https://darn.e
